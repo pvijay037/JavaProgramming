@@ -13,4 +13,8 @@ public class StringFunction1 {
         String message = "how are you " + name;
         return message;
     }
-}
+}/*
+  * return_type(parameters)
+  * //body
+  * return statements
+  */
